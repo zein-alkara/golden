@@ -1,0 +1,4 @@
+flask
+tokenize
+flask_wtf
+wtforms
